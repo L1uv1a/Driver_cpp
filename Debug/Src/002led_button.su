@@ -1,0 +1,2 @@
+../Src/002led_button.cpp:28:6:void delay()	16	static
+../Src/002led_button.cpp:33:5:int main()	48	static
